@@ -20,6 +20,6 @@ This library provides an entity manager for Cypher data types.
 
 Links:
 
-- [Documentation](https://syndesi.github.io/cypher-entity-manager)
-- [Packagist](https://packagist.org/packages/syndesi/cypher-entity-manager)
+- [Documentation](https://syndesi.github.io/cypher-entity-manager-bridge-symfony)
+- [Packagist](https://packagist.org/packages/syndesi/cypher-entity-manager-bridge-symfony)
 - [Neo4j PHP Community](https://github.com/neo4j-php)
